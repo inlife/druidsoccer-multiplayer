@@ -1,6 +1,7 @@
-# Ignore everything
-*
+Temp/*
+Library/*
 
-# But not these files...
-!Assets/*
-!ProjectSettings/*
+*.sln
+.DS_Store
+*.csproj
+*.userprefs
