@@ -1,5 +1,6 @@
 Temp/*
 Library/*
+Build/*
 
 *.sln
 .DS_Store
